@@ -3,55 +3,55 @@
         {
             "id":1,
             "nombre":"Tarjeta de Video",
-            "precio":"18.22",
+            "precio":"18.22"
 
         },
         {
             "id":2,
             "nombre":"Procesador",
-            "precio":"9.4",
+            "precio":"9.4"
 
         },
         {
             "id":3,
             "nombre":"Memoria Ram",
-            "precio":"3.35",
+            "precio":"3.35"
 
         },
         {
             "id":4,
             "nombre":"Placa Madre",
-            "precio":"6.42",
+            "precio":"6.42"
 
         },
         {
             "id":5,
             "nombre":"Gabinete",
-            "precio":"3.98",
+            "precio":"3.98"
 
         },
         {
             "id":6,
             "nombre":"Procesador",
-            "precio":"17.96",
+            "precio":"17.96"
 
         },
         {
             "id":7,
             "nombre":"Placa Madre",
-            "precio":"12.17",
+            "precio":"12.17"
  
         },
         {
             "id":8,
             "nombre":"Tarjeta de Video",
-            "precio":"18.22",
+            "precio":"18.22"
  
         },
         {
             "id":9,
             "nombre":"Gabinete",
-            "precio":"6.10",
+            "precio":"6.10"
 
         }
 
