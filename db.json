@@ -4,64 +4,55 @@
             "id":1,
             "nombre":"Tarjeta de Video",
             "precio":"18.22",
-            "descripcion":"Fabricante: MSI <br>GPU: NVIDIA GeForce RTX 3060 Ti <br>Memoria: 8 GB GDDR6 (256 bit)",
-            "imagen":"/img/gpu msi rtx 3060ti ventus.jpg"
+
         },
         {
             "id":2,
             "nombre":"Procesador",
             "precio":"9.4",
-            "descripcion":"Modelo: AMD Ryzen 7 5700X <br>Frecuencia 3400 MHz <br>Socket: AM4",
-            "imagen":"/img/cpu ryzen 7 5700x.jpg"
+
         },
         {
             "id":3,
             "nombre":"Memoria Ram",
             "precio":"3.35",
-            "descripcion":"Capacidad: 2 x 8GB <br>Tipo: DDR4 <br>Frecuencia: 3200 MHz",
-            "imagen":"/img/ram trident z gold .jpg"
+
         },
         {
             "id":4,
             "nombre":"Placa Madre",
             "precio":"6.42",
-            "descripcion":"Marca: ASUS <br>Tipo de set de chips :AMD 570X <br>Zócalo de CPU: Socket AM4",
-            "imagen":"/img/placa asus x570.jpg"
+
         },
         {
             "id":5,
             "nombre":"Gabinete",
             "precio":"3.98",
-            "descripcion":"Marca: ASUS <br>Tamaño: ATX/E-ATX <br>Dimensiones: 5.45 x 2.51 x 5.52 m",
-            "imagen":"/img/gabo asus tuf.jpg"
+
         },
         {
             "id":6,
             "nombre":"Procesador",
             "precio":"17.96",
-            "descripcion":"Modelo: AMD Ryzen 9 5950 <br>Frecuencia 3400 MHz <br>Socket: AM4",
-            "imagen":"/img/cpu ryzen 7 5700x.jpg"
+
         },
         {
             "id":7,
             "nombre":"Placa Madre",
             "precio":"12.17",
-            "descripcion":"Marca: ASUS <br>Tipo de set de chips :AMD 570X <br>Zócalo de CPU: Socket AM4",
-            "imagen":"/img/placa asus rog strix x570.jpg"
+ 
         },
         {
             "id":8,
             "nombre":"Tarjeta de Video",
             "precio":"18.22",
-            "descripcion":"Fabricante: Gigabyte <br>GPU: NVIDIA GeForce RTX 3085 <br>Memoria: 10.0 GB GDDR6X (320 bit)",
-            "imagen":"/img/gpu aorus rtx 3080 master.jpg"
+ 
         },
         {
             "id":9,
             "nombre":"Gabinete",
             "precio":"6.10",
-            "descripcion":"Marca: Cougar <br>Tamaño: ATX <br>Dimensiones: 685 x 580 x 255 mm.",
-            "imagen":"/img/gabo cougar conquer.jpg"
+
         }
 
     ]
